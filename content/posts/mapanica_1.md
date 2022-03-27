@@ -9,4 +9,4 @@ tags : [
 ]
 ---
 
-Somethingwwwwwwwwwwwwwwwwwwwwwwwww
+![mapanice.net screenshot](/images/mapanica_cover.png)
