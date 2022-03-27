@@ -1,0 +1,26 @@
+.profile h1  {
+    font-weight: 600;
+    letter-spacing: -2px;
+    font-size: 3em;
+    color: #222;
+}
+
+.profile  h2  {
+    color: #aaa;
+}
+
+.company  {
+    color: #003D51;
+    font-weight: bold;
+}
+
+.department {
+    color: #7BC636;
+    font-weight: bold;
+}
+
+@media (max-width: 700px) {
+    .profile  h1 {
+        font-size: 2em;
+    }
+}

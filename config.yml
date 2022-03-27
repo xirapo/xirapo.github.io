@@ -1,6 +1,6 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: Francisco Garcia
+title: Paco
 theme:  mini
 
 hasCJKLanguage: true
@@ -29,8 +29,13 @@ social:
   # e.g.
   github: https://github.com/xirapo
   twitter: https://twitter.com/isdonquijote
+  linkedin: https://www.linkedin.com/in/frankgarcia29/
 
+
+
+# personal params
 params:
+  name: Francisco Garcia
   author: Paco
   bio: Project Coordinator at
   company: Schlesinger Group
@@ -39,3 +44,6 @@ params:
   enableRSS: true
   enableComments: true
   enableGoogleAnalytics: true
+  customCSS:
+    - css/custom.css
+
